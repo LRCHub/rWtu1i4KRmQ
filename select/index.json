@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "テトロドトキシン",
+  "base_artist": "ぴーなた",
+  "createdAt": "2026-03-12T05:21:17.167831Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "テトロドトキシン (feat. 重音テト)",
+      "artist": "ぴーなた",
+      "has_synced": false,
+      "path": "select/pl_01_テトロドトキシン_(feat._重音テト)_ぴーなた.txt"
+    }
+  ]
+}
